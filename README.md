@@ -1,7 +1,7 @@
 # Resume_MatveevAK
 Матвеев Андрей, 1 курс магистратуры МИФИ, Программная инженерия 
 Резюме на hh — https://hh.ru/resume/455481efff10d2c43a0039ed1f51463669444b
-
+Учебный проект по сис.администрированию — https://github.com/AndreyMatveev2123/my-sysadmin-scripts
 **SOC - cпециалист**
 Добрый день!
 
